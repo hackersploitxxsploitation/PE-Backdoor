@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625361800 source:c:\users\estan\onedrive\Área de trabalho\pe  injection\main.c
+	<stdio.h>
+	<Windows.h>
+
